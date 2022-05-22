@@ -1,2 +1,2 @@
-# Web3Bridge-PreQualification-Tesr
-A javascript project for the web3bridge pre-qualification test for cohort7.
+# Web3Bridge-PreQualification-Test
+A Javascript project for the web3bridge pre-qualification test for cohort7.
